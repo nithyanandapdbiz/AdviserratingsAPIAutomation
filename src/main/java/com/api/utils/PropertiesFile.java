@@ -34,6 +34,7 @@ public class PropertiesFile {
 				LOG.error("IO Exception while closing file input stream", e);
 			}
 		}
+	
 		return prop.getProperty(property).trim();
 	}
 }

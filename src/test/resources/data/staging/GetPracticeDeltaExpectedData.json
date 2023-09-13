@@ -1,0 +1,1829 @@
+{
+    "new": [
+        {
+            "id": 18000807,
+            "name": "Australian Financial And Insurance Services Pty Ltd",
+            "tradingNames": [],
+            "businessNames": [],
+            "abn": "24081032635",
+            "acn": null,
+            "licensee": {
+                "licenceNumber": 385827,
+                "licenceType": "STOCKBROKER",
+                "licenseeName": "INVESTORS DIRECT FINANCIAL PLANNING PTY LTD"
+            },
+            "adviserInformation": {
+                "totalAdvisers": 1,
+                "femalePercent": 0,
+                "malePercent": 1,
+                "otherPercent": 0
+            },
+            "addresses": [
+                {
+                    "id": 11338,
+                    "building": null,
+                    "streetAddress": "20 Powlett St",
+                    "suburb": "Mernda",
+                    "state": "VIC",
+                    "postcode": "3754",
+                    "region": "Melbourne - North East",
+                    "country": "Australia",
+                    "longitude": 145.0948494,
+                    "latitude": -37.61009809999999,
+                    "isPrincipal": true,
+                    "timestamp": "2022-06-03T05:07:30.293869+00:00"
+                },
+                {
+                    "id": 26311,
+                    "building": null,
+                    "streetAddress": "75 Devonshire Rd",
+                    "suburb": "Watsonia",
+                    "state": "VIC",
+                    "postcode": "3087",
+                    "region": "Melbourne - North East",
+                    "country": "Australia",
+                    "longitude": 145.081785,
+                    "latitude": -37.71251399999999,
+                    "isPrincipal": false,
+                    "timestamp": "2022-06-03T05:06:38.107668+00:00"
+                }
+            ],
+            "principalAddressTimestamp": "2022-06-03T05:07:30.293869+00:00",
+            "contactInformation": {
+                "id": 75710,
+                "email": "austfinanceinsurance@afis.net.au",
+                "mobile": null,
+                "landline": "+61384889248",
+                "linkedin": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/austfinanceinsuranceservices/",
+                "website": "https://www.afis.net.au/",
+                "timestamp": "2022-06-03T05:04:20.226287+00:00"
+            },
+            "contactInformationTimestamp": "2022-06-03T05:04:20.226287+00:00",
+            "contactPersons": [],
+            "primaryContactTimestamp": "2022-01-20T10:23:59.809227+00:00",
+            "investmentInformation": {
+                "fua": {
+                    "min": 200000000,
+                    "max": 500000000
+                },
+                "fuaTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "inForcePremiums": null
+            },
+            "clientInformation": {
+                "clientCount": {
+                    "min": 250,
+                    "max": null
+                },
+                "smsfProportion": {
+                    "min": null,
+                    "max": null
+                },
+                "ageBreakdown": {
+                    "under35": "0.13",
+                    "between35And45": "0.17",
+                    "between46And55": "0.18",
+                    "between56And65": "0.18"
+                },
+                "retirementBreakdown": {
+                    "preRetire": "0.38",
+                    "nearRetire": "0.15",
+                    "postRetire": "0.32",
+                    "smePreRetire": "0.15"
+                }
+            },
+            "clientInformationTimestamp": null,
+            "products": null
+        }
+    ],
+    "removed": [
+        {
+            "id": 18000811,
+            "name": "Australian Financial Planning Group Pty Ltd",
+            "tradingNames": [],
+            "businessNames": [
+                "AFPG",
+                "Australian Financial Planning Group"
+            ],
+            "abn": "66050139850",
+            "acn": "050139850",
+            "licensee": {
+                "licenceNumber": 247430,
+                "licenceType": "PRIVATELY_OWNED_1_10",
+                "licenseeName": "AUSTRALIAN FINANCIAL PLANNING GROUP PTY LIMITED"
+            },
+            "adviserInformation": {
+                "totalAdvisers": 9,
+                "femalePercent": 0,
+                "malePercent": 1,
+                "otherPercent": 0
+            },
+            "addresses": [
+                {
+                    "id": 10382,
+                    "building": "Level 13",
+                    "streetAddress": "227 Elizabeth Street",
+                    "suburb": "Sydney",
+                    "state": "NSW",
+                    "postcode": "2000",
+                    "region": "Sydney - City and Inner South",
+                    "country": "Australia",
+                    "longitude": 151.2094246,
+                    "latitude": -33.8743365,
+                    "isPrincipal": true,
+                    "timestamp": "2023-06-20T00:10:14.130387+00:00"
+                },
+                {
+                    "id": 11342,
+                    "building": "Level 2",
+                    "streetAddress": "437 Saint Kilda Road",
+                    "suburb": "Melbourne",
+                    "state": "VIC",
+                    "postcode": "3004",
+                    "region": "Melbourne - Inner",
+                    "country": "Australia",
+                    "longitude": 144.9777484,
+                    "latitude": -37.8390534,
+                    "isPrincipal": false,
+                    "timestamp": "2021-06-03T02:27:56.695417+00:00"
+                }
+            ],
+            "principalAddressTimestamp": "2023-06-20T00:10:14.130387+00:00",
+            "contactInformation": {
+                "id": 75711,
+                "email": "info@afpg.com.au",
+                "mobile": null,
+                "landline": "+61282687000",
+                "linkedin": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/AFPGptyltd/",
+                "website": "https://www.afpg.com.au",
+                "timestamp": "2020-04-03T03:32:17.274798+00:00"
+            },
+            "contactInformationTimestamp": "2020-04-03T03:32:17.274798+00:00",
+            "contactPersons": [
+                {
+                    "id": 24591,
+                    "isPrimary": true,
+                    "position": "Director",
+                    "adviserNumber": 250641,
+                    "person": {
+                        "id": 4311,
+                        "preferredName": "Matt",
+                        "firstName": "Matthew",
+                        "middleNames": null,
+                        "lastName": "Carter",
+                        "gender": "MALE",
+                        "timestamp": "2020-04-03T03:35:13.954547+00:00"
+                    },
+                    "contactInformation": {
+                        "id": 79309,
+                        "email": "mcarter@afpg.com.au",
+                        "mobile": "+61414699947",
+                        "landline": "+61282687001",
+                        "linkedin": null,
+                        "twitter": null,
+                        "facebook": null,
+                        "website": "https://www.afpg.com.au/meet-our-people/matt-carter/",
+                        "Timestamp": null
+                    }
+                }
+            ],
+            "primaryContactTimestamp": "2023-04-05T01:06:45.257369+00:00",
+            "investmentInformation": {
+                "fua": {
+                    "min": 500000000,
+                    "max": null
+                },
+                "fuaTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "inForcePremiums": null
+            },
+            "clientInformation": {
+                "clientCount": {
+                    "min": 250,
+                    "max": null
+                },
+                "smsfProportion": {
+                    "min": null,
+                    "max": null
+                },
+                "ageBreakdown": {
+                    "under35": "0.16",
+                    "between35And45": "0.19",
+                    "between46And55": "0.20",
+                    "between56And65": "0.20"
+                },
+                "retirementBreakdown": {
+                    "preRetire": "0.46",
+                    "nearRetire": "0.15",
+                    "postRetire": "0.24",
+                    "smePreRetire": "0.15"
+                }
+            },
+            "clientInformationTimestamp": null,
+            "products": null
+        },
+        {
+            "id": 18000935,
+            "name": "Ballingers Fp Pty Ltd",
+            "tradingNames": [
+                "Ballingers"
+            ],
+            "businessNames": [
+                "BALLINGERS",
+                "BALLINGER's FINANCIAL PLANNING"
+            ],
+            "abn": "73137621955",
+            "acn": "137621955",
+            "licensee": {
+                "licenceNumber": 338959,
+                "licenceType": "PRIVATELY_OWNED_1_10",
+                "licenseeName": "BALLINGERS FP PTY LTD"
+            },
+            "adviserInformation": {
+                "totalAdvisers": 4,
+                "femalePercent": 0,
+                "malePercent": 1,
+                "otherPercent": 0
+            },
+            "addresses": [
+                {
+                    "id": 11494,
+                    "building": "Suite 1",
+                    "streetAddress": "91 Frederick St",
+                    "suburb": "Merewether",
+                    "state": "NSW",
+                    "postcode": "2291",
+                    "region": "Newcastle and Lake Macquarie",
+                    "country": "Australia",
+                    "longitude": 151.7556065,
+                    "latitude": -32.9486015,
+                    "isPrincipal": true,
+                    "timestamp": "2021-11-08T01:09:31.54036+00:00"
+                }
+            ],
+            "principalAddressTimestamp": "2022-02-23T08:26:31.565614+00:00",
+            "contactInformation": {
+                "id": 68221,
+                "email": "mail@ballingers.com.au",
+                "mobile": null,
+                "landline": "+61249270295",
+                "linkedin": null,
+                "twitter": null,
+                "facebook": null,
+                "website": "http://www.ballingers.com.au/",
+                "timestamp": "2022-02-23T08:18:08.863683+00:00"
+            },
+            "contactInformationTimestamp": "2022-02-23T08:18:08.863683+00:00",
+            "contactPersons": [
+                {
+                    "id": 24656,
+                    "isPrimary": true,
+                    "position": "Director",
+                    "adviserNumber": 226330,
+                    "person": {
+                        "id": 218,
+                        "preferredName": "Steve",
+                        "firstName": "Stephen",
+                        "middleNames": null,
+                        "lastName": "Ballinger",
+                        "gender": "MALE",
+                        "timestamp": "2020-03-08T14:05:04.185499+00:00"
+                    },
+                    "contactInformation": {
+                        "id": 76663,
+                        "email": "stephen@ballingers.com.au",
+                        "mobile": null,
+                        "landline": "+61249270295",
+                        "linkedin": null,
+                        "twitter": null,
+                        "facebook": null,
+                        "website": "https://ballingers.com.au/people/",
+                        "Timestamp": null
+                    }
+                }
+            ],
+            "primaryContactTimestamp": "2022-02-23T08:23:20.988436+00:00",
+            "investmentInformation": {
+                "fua": {
+                    "min": 200000000,
+                    "max": 500000000
+                },
+                "fuaTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "inForcePremiums": null
+            },
+            "clientInformation": {
+                "clientCount": {
+                    "min": 150,
+                    "max": 200
+                },
+                "smsfProportion": {
+                    "min": null,
+                    "max": null
+                },
+                "ageBreakdown": {
+                    "under35": "0.16",
+                    "between35And45": "0.20",
+                    "between46And55": "0.20",
+                    "between56And65": "0.20"
+                },
+                "retirementBreakdown": {
+                    "preRetire": "0.47",
+                    "nearRetire": "0.15",
+                    "postRetire": "0.23",
+                    "smePreRetire": "0.15"
+                }
+            },
+            "clientInformationTimestamp": null,
+            "products": null
+        },
+        {
+            "id": 18004086,
+            "name": "Integrated Wealth Solutions",
+            "tradingNames": [
+                "COSIMO INVESTMENTS PTY LTD"
+            ],
+            "businessNames": [],
+            "abn": "16066806602",
+            "acn": "066806602",
+            "licensee": {
+                "licenceNumber": 221531,
+                "licenceType": "PRIVATELY_OWNED_1_10",
+                "licenseeName": "RADFORD ALLEN FINANCIAL SERVICES PTY LTD"
+            },
+            "adviserInformation": {
+                "totalAdvisers": 1,
+                "femalePercent": 0,
+                "malePercent": 1,
+                "otherPercent": 0
+            },
+            "addresses": [
+                {
+                    "id": 14020,
+                    "building": "Suite 405 Level 4",
+                    "streetAddress": "530 Little Collins St",
+                    "suburb": "Melbourne",
+                    "state": "VIC",
+                    "postcode": "3000",
+                    "region": "Melbourne - Inner",
+                    "country": "Australia",
+                    "longitude": 144.9571413,
+                    "latitude": -37.8169041,
+                    "isPrincipal": true,
+                    "timestamp": "2020-05-02T00:39:41.100199+00:00"
+                }
+            ],
+            "principalAddressTimestamp": "2020-05-02T00:39:41.100199+00:00",
+            "contactInformation": {
+                "id": 72012,
+                "email": "ian.davis@integratedwealthsoutions.com.au",
+                "mobile": null,
+                "landline": "+61390019812",
+                "linkedin": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Integrated-Wealth-Solutions-215589178453604/",
+                "website": "https://www.integratedwealthsolutions.com.au/",
+                "timestamp": "2021-09-26T22:13:45.495677+00:00"
+            },
+            "contactInformationTimestamp": "2021-09-26T22:13:45.495677+00:00",
+            "contactPersons": [
+                {
+                    "id": 26510,
+                    "isPrimary": true,
+                    "position": "Owner",
+                    "adviserNumber": 232649,
+                    "person": {
+                        "id": 933,
+                        "preferredName": null,
+                        "firstName": "Ian",
+                        "middleNames": "Robert",
+                        "lastName": "Davis",
+                        "gender": "MALE",
+                        "timestamp": "2020-03-08T14:05:04.185499+00:00"
+                    },
+                    "contactInformation": {
+                        "id": 77115,
+                        "email": "ian.davis@integratedwealthsolutions.com.au",
+                        "mobile": null,
+                        "landline": "+61390019812",
+                        "linkedin": null,
+                        "twitter": null,
+                        "facebook": "https://www.facebook.com/ian.davis.39501",
+                        "website": "https://www.integratedwealthsolutions.com.au/",
+                        "Timestamp": null
+                    }
+                }
+            ],
+            "primaryContactTimestamp": "2022-04-19T22:51:11.259405+00:00",
+            "investmentInformation": {
+                "fua": {
+                    "min": 100000000,
+                    "max": 200000000
+                },
+                "fuaTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "inForcePremiums": null
+            },
+            "clientInformation": {
+                "clientCount": {
+                    "min": 150,
+                    "max": 200
+                },
+                "smsfProportion": {
+                    "min": null,
+                    "max": null
+                },
+                "ageBreakdown": {
+                    "under35": "0.13",
+                    "between35And45": "0.15",
+                    "between46And55": "0.17",
+                    "between56And65": "0.17"
+                },
+                "retirementBreakdown": {
+                    "preRetire": "0.35",
+                    "nearRetire": "0.15",
+                    "postRetire": "0.35",
+                    "smePreRetire": "0.15"
+                }
+            },
+            "clientInformationTimestamp": null,
+            "products": {
+                "adminPlatforms": [
+                    {
+                        "id": 16,
+                        "name": "Netwealth"
+                    }
+                ],
+                "insurancePlatforms": [],
+                "platformsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "softwareSuppliers": [],
+                "softwareSuppliersTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "researchHouse": [],
+                "researchHouseTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "investmentConsultants": [],
+                "investmentConsultantsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "apl": [
+                    {
+                        "id": 65,
+                        "name": "Managed Funds"
+                    },
+                    {
+                        "id": 80,
+                        "name": "Retail"
+                    },
+                    {
+                        "id": 81,
+                        "name": "Public Sector"
+                    },
+                    {
+                        "id": 82,
+                        "name": "Industry"
+                    },
+                    {
+                        "id": 67,
+                        "name": "Managed accounts (e.g. MDA / SMA / IMA)"
+                    }
+                ],
+                "aplTimestamp": "2021-05-03T00:28:46.344579+00:00"
+            }
+        },
+        {
+            "id": 18006433,
+            "name": "Proactiv Financial Solutions",
+            "tradingNames": [],
+            "businessNames": [
+                "Proactiv Financial Solutions"
+            ],
+            "abn": "46188733650",
+            "acn": null,
+            "licensee": {
+                "licenceNumber": 508000,
+                "licenceType": "PRIVATELY_OWNED_1_10",
+                "licenseeName": "RESPECT FINANCIAL SERVICES PTY LTD"
+            },
+            "adviserInformation": {
+                "totalAdvisers": 1,
+                "femalePercent": 0,
+                "malePercent": 1,
+                "otherPercent": 0
+            },
+            "addresses": [
+                {
+                    "id": 7303,
+                    "building": "Suite 4",
+                    "streetAddress": "300 Vahland Ave",
+                    "suburb": "Willetton",
+                    "state": "WA",
+                    "postcode": "6155",
+                    "region": "Perth - South East",
+                    "country": "Australia",
+                    "longitude": 115.8890965,
+                    "latitude": -32.0661131,
+                    "isPrincipal": true,
+                    "timestamp": "2020-06-21T19:50:19.959007+00:00"
+                }
+            ],
+            "principalAddressTimestamp": "2020-06-21T19:50:19.959007+00:00",
+            "contactInformation": {
+                "id": 73836,
+                "email": "michael@proactivfs.com.au",
+                "mobile": "+61408505877",
+                "landline": null,
+                "linkedin": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/proactivfinancialsolutions",
+                "website": "http://www.proactivfs.com.au/",
+                "timestamp": "2020-06-21T19:48:28.263032+00:00"
+            },
+            "contactInformationTimestamp": "2020-06-21T19:48:28.263032+00:00",
+            "contactPersons": [
+                {
+                    "id": 27922,
+                    "isPrimary": true,
+                    "position": "Principal",
+                    "adviserNumber": 283305,
+                    "person": {
+                        "id": 7381,
+                        "preferredName": null,
+                        "firstName": "Michael",
+                        "middleNames": "Paul",
+                        "lastName": "Hancock",
+                        "gender": "MALE",
+                        "timestamp": "2021-09-06T04:29:33.049813+00:00"
+                    },
+                    "contactInformation": {
+                        "id": 81353,
+                        "email": "michael@proactivfs.com.au",
+                        "mobile": "+61408505877",
+                        "landline": null,
+                        "linkedin": null,
+                        "twitter": null,
+                        "facebook": "http://www.facebook.com/Mph7219",
+                        "website": "http://www.proactivfs.com.au/",
+                        "Timestamp": null
+                    }
+                }
+            ],
+            "primaryContactTimestamp": "2022-08-29T02:02:15.739061+00:00",
+            "investmentInformation": {
+                "fua": {
+                    "min": 20000000,
+                    "max": 50000000
+                },
+                "fuaTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "inForcePremiums": {
+                    "min": 750000,
+                    "max": 1000000
+                }
+            },
+            "clientInformation": {
+                "clientCount": {
+                    "min": 50,
+                    "max": 100
+                },
+                "smsfProportion": {
+                    "min": null,
+                    "max": null
+                },
+                "ageBreakdown": {
+                    "under35": "0.10",
+                    "between35And45": "0.25",
+                    "between46And55": "0.30",
+                    "between56And65": "0.30"
+                },
+                "retirementBreakdown": {
+                    "preRetire": "0.60",
+                    "nearRetire": "0.25",
+                    "postRetire": "0.05",
+                    "smePreRetire": "0.10"
+                }
+            },
+            "clientInformationTimestamp": null,
+            "products": {
+                "adminPlatforms": [
+                    {
+                        "id": 1,
+                        "name": "AMP North"
+                    }
+                ],
+                "insurancePlatforms": [
+                    {
+                        "id": 94,
+                        "name": "Neos"
+                    },
+                    {
+                        "id": 96,
+                        "name": "TAL"
+                    }
+                ],
+                "platformsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "softwareSuppliers": [
+                    {
+                        "id": 62,
+                        "name": "Salesforce"
+                    }
+                ],
+                "softwareSuppliersTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "researchHouse": [
+                    {
+                        "id": 44,
+                        "name": "Chant West"
+                    }
+                ],
+                "researchHouseTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "investmentConsultants": [
+                    {
+                        "id": 112,
+                        "name": "Not Using"
+                    }
+                ],
+                "investmentConsultantsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "apl": [
+                    {
+                        "id": 64,
+                        "name": "Direct Shares"
+                    },
+                    {
+                        "id": 77,
+                        "name": "Loans"
+                    },
+                    {
+                        "id": 79,
+                        "name": "SMSF"
+                    },
+                    {
+                        "id": 80,
+                        "name": "Retail"
+                    },
+                    {
+                        "id": 82,
+                        "name": "Industry"
+                    },
+                    {
+                        "id": 67,
+                        "name": "Managed accounts (e.g. MDA / SMA / IMA)"
+                    },
+                    {
+                        "id": 69,
+                        "name": "Model portfolios (using direct shares)"
+                    },
+                    {
+                        "id": 68,
+                        "name": "Model portfolios (using managed funds)"
+                    }
+                ],
+                "aplTimestamp": "2021-05-03T00:28:46.344579+00:00"
+            }
+        },
+        {
+            "id": 18006623,
+            "name": "Radford Allen Financial Services Pty Ltd",
+            "tradingNames": [],
+            "businessNames": [],
+            "abn": "46098406958",
+            "acn": "098406958",
+            "licensee": {
+                "licenceNumber": 221531,
+                "licenceType": "PRIVATELY_OWNED_1_10",
+                "licenseeName": "RADFORD ALLEN FINANCIAL SERVICES PTY LTD"
+            },
+            "adviserInformation": {
+                "totalAdvisers": 1,
+                "femalePercent": 1,
+                "malePercent": 0,
+                "otherPercent": 0
+            },
+            "addresses": [
+                {
+                    "id": 5194,
+                    "building": null,
+                    "streetAddress": "24 Inverness Way",
+                    "suburb": "Balwyn North",
+                    "state": "VIC",
+                    "postcode": "3104",
+                    "region": "Melbourne - Inner East",
+                    "country": "Australia",
+                    "longitude": 145.067312,
+                    "latitude": -37.79111,
+                    "isPrincipal": true,
+                    "timestamp": "2021-05-26T01:14:17.350676+00:00"
+                }
+            ],
+            "principalAddressTimestamp": "2021-05-26T01:14:17.350676+00:00",
+            "contactInformation": {
+                "id": 68794,
+                "email": null,
+                "mobile": null,
+                "landline": "+61398596770",
+                "linkedin": null,
+                "twitter": null,
+                "facebook": null,
+                "website": null,
+                "timestamp": "2020-03-08T14:12:01.836226+00:00"
+            },
+            "contactInformationTimestamp": "2020-03-08T14:12:01.836226+00:00",
+            "contactPersons": [
+                {
+                    "id": 28028,
+                    "isPrimary": true,
+                    "position": "Owner",
+                    "adviserNumber": 222743,
+                    "person": {
+                        "id": 8,
+                        "preferredName": "Sue",
+                        "firstName": "Susan",
+                        "middleNames": "Joan",
+                        "lastName": "Allen",
+                        "gender": "FEMALE",
+                        "timestamp": "2020-03-08T14:05:04.185499+00:00"
+                    },
+                    "contactInformation": {
+                        "id": 76513,
+                        "email": "sue.allen@rafs.com.au",
+                        "mobile": "+61411267859",
+                        "landline": "+61398596770",
+                        "linkedin": null,
+                        "twitter": null,
+                        "facebook": null,
+                        "website": null,
+                        "Timestamp": null
+                    }
+                }
+            ],
+            "primaryContactTimestamp": "2020-03-08T14:05:04.185499+00:00",
+            "investmentInformation": {
+                "fua": {
+                    "min": 5000000,
+                    "max": 20000000
+                },
+                "fuaTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "inForcePremiums": null
+            },
+            "clientInformation": {
+                "clientCount": {
+                    "min": 1,
+                    "max": 25
+                },
+                "smsfProportion": {
+                    "min": null,
+                    "max": null
+                },
+                "ageBreakdown": {
+                    "under35": "0.00",
+                    "between35And45": "0.00",
+                    "between46And55": "0.00",
+                    "between56And65": "0.20"
+                },
+                "retirementBreakdown": {
+                    "preRetire": "0.00",
+                    "nearRetire": "0.10",
+                    "postRetire": "0.85",
+                    "smePreRetire": "0.05"
+                }
+            },
+            "clientInformationTimestamp": null,
+            "products": {
+                "adminPlatforms": [
+                    {
+                        "id": 16,
+                        "name": "Netwealth"
+                    }
+                ],
+                "insurancePlatforms": [],
+                "platformsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "softwareSuppliers": [],
+                "softwareSuppliersTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "researchHouse": [],
+                "researchHouseTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "investmentConsultants": [],
+                "investmentConsultantsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "apl": [
+                    {
+                        "id": 65,
+                        "name": "Managed Funds"
+                    },
+                    {
+                        "id": 80,
+                        "name": "Retail"
+                    },
+                    {
+                        "id": 81,
+                        "name": "Public Sector"
+                    },
+                    {
+                        "id": 82,
+                        "name": "Industry"
+                    },
+                    {
+                        "id": 67,
+                        "name": "Managed accounts (e.g. MDA / SMA / IMA)"
+                    }
+                ],
+                "aplTimestamp": "2021-05-03T00:28:46.344579+00:00"
+            }
+        },
+        {
+            "id": 18006742,
+            "name": "Retire Ready Wealth Management",
+            "tradingNames": [
+                "DALRAY FINANCIAL SERVICES PTY LTD"
+            ],
+            "businessNames": [
+                "RETIRE READY WEALTH MANAGEMENT"
+            ],
+            "abn": "21087694175",
+            "acn": "087694175",
+            "licensee": {
+                "licenceNumber": 508000,
+                "licenceType": "PRIVATELY_OWNED_1_10",
+                "licenseeName": "RESPECT FINANCIAL SERVICES PTY LTD"
+            },
+            "adviserInformation": {
+                "totalAdvisers": 1,
+                "femalePercent": 0,
+                "malePercent": 1,
+                "otherPercent": 0
+            },
+            "addresses": [
+                {
+                    "id": 24070,
+                    "building": "Unit 7",
+                    "streetAddress": "41 Catalano Cct",
+                    "suburb": "Canning Vale",
+                    "state": "WA",
+                    "postcode": "6155",
+                    "region": "Perth - South East",
+                    "country": "Australia",
+                    "longitude": 115.8975056,
+                    "latitude": -32.0674202,
+                    "isPrincipal": true,
+                    "timestamp": "2023-06-19T02:30:05.956589+00:00"
+                }
+            ],
+            "principalAddressTimestamp": "2023-06-19T02:30:05.956589+00:00",
+            "contactInformation": {
+                "id": 74066,
+                "email": "murray@retirereadywealth.com.au",
+                "mobile": null,
+                "landline": "+61892563775",
+                "linkedin": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/RetireReadyWealth/",
+                "website": "http://www.retirereadywealth.com.au/",
+                "timestamp": "2021-05-07T01:57:55.720731+00:00"
+            },
+            "contactInformationTimestamp": "2021-05-07T01:57:55.720731+00:00",
+            "contactPersons": [
+                {
+                    "id": 28099,
+                    "isPrimary": true,
+                    "position": "Principal",
+                    "adviserNumber": 321615,
+                    "person": {
+                        "id": 10272,
+                        "preferredName": null,
+                        "firstName": "Murray",
+                        "middleNames": null,
+                        "lastName": "Thorpe",
+                        "gender": "MALE",
+                        "timestamp": "2020-06-10T01:41:17.834233+00:00"
+                    },
+                    "contactInformation": {
+                        "id": 83300,
+                        "email": "murray@retirereadywealth.com.au",
+                        "mobile": "+61417975484",
+                        "landline": "+61892563775",
+                        "linkedin": null,
+                        "twitter": null,
+                        "facebook": "https://www.facebook.com/murray.thorpe.5",
+                        "website": "http://www.retirereadywealth.com.au/",
+                        "Timestamp": null
+                    }
+                }
+            ],
+            "primaryContactTimestamp": "2021-05-07T01:59:51.181835+00:00",
+            "investmentInformation": {
+                "fua": {
+                    "min": 20000000,
+                    "max": 50000000
+                },
+                "fuaTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "inForcePremiums": null
+            },
+            "clientInformation": {
+                "clientCount": {
+                    "min": 100,
+                    "max": 150
+                },
+                "smsfProportion": {
+                    "min": null,
+                    "max": null
+                },
+                "ageBreakdown": {
+                    "under35": "0.05",
+                    "between35And45": "0.15",
+                    "between46And55": "0.35",
+                    "between56And65": "0.35"
+                },
+                "retirementBreakdown": {
+                    "preRetire": "0.50",
+                    "nearRetire": "0.35",
+                    "postRetire": "0.15",
+                    "smePreRetire": "0.00"
+                }
+            },
+            "clientInformationTimestamp": null,
+            "products": {
+                "adminPlatforms": [
+                    {
+                        "id": 3,
+                        "name": "Asgard"
+                    },
+                    {
+                        "id": 5,
+                        "name": "BT Panorama"
+                    }
+                ],
+                "insurancePlatforms": [
+                    {
+                        "id": 94,
+                        "name": "Neos"
+                    },
+                    {
+                        "id": 96,
+                        "name": "TAL"
+                    }
+                ],
+                "platformsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "softwareSuppliers": [
+                    {
+                        "id": 99,
+                        "name": "AdviserLogic"
+                    }
+                ],
+                "softwareSuppliersTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "researchHouse": [
+                    {
+                        "id": 48,
+                        "name": "Morningstar"
+                    }
+                ],
+                "researchHouseTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "investmentConsultants": [
+                    {
+                        "id": 115,
+                        "name": "Zenith"
+                    }
+                ],
+                "investmentConsultantsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "apl": [
+                    {
+                        "id": 64,
+                        "name": "Direct Shares"
+                    },
+                    {
+                        "id": 77,
+                        "name": "Loans"
+                    },
+                    {
+                        "id": 79,
+                        "name": "SMSF"
+                    },
+                    {
+                        "id": 80,
+                        "name": "Retail"
+                    },
+                    {
+                        "id": 82,
+                        "name": "Industry"
+                    },
+                    {
+                        "id": 67,
+                        "name": "Managed accounts (e.g. MDA / SMA / IMA)"
+                    },
+                    {
+                        "id": 69,
+                        "name": "Model portfolios (using direct shares)"
+                    },
+                    {
+                        "id": 68,
+                        "name": "Model portfolios (using managed funds)"
+                    }
+                ],
+                "aplTimestamp": "2021-05-03T00:28:46.344579+00:00"
+            }
+        },
+        {
+            "id": 18008264,
+            "name": "Visis Private Wealth",
+            "tradingNames": [
+                "V.I.S.I.S. FINANCIAL PLANNING"
+            ],
+            "businessNames": [
+                "VISIS PRIVATE WEALTH"
+            ],
+            "abn": "32098306828",
+            "acn": "098306828",
+            "licensee": {
+                "licenceNumber": 394583,
+                "licenceType": "PRIVATELY_OWNED_11_100",
+                "licenseeName": "VISIS PTY LTD"
+            },
+            "adviserInformation": {
+                "totalAdvisers": 11,
+                "femalePercent": 0.27,
+                "malePercent": 0.73,
+                "otherPercent": 0
+            },
+            "addresses": [
+                {
+                    "id": 17851,
+                    "building": "Level 24",
+                    "streetAddress": "111 Eagle St",
+                    "suburb": "Brisbane City",
+                    "state": "QLD",
+                    "postcode": "4000",
+                    "region": "Brisbane Inner City",
+                    "country": "Australia",
+                    "longitude": 153.030356,
+                    "latitude": -27.467592,
+                    "isPrincipal": true,
+                    "timestamp": "2023-02-16T00:36:56.063451+00:00"
+                },
+                {
+                    "id": 25037,
+                    "building": "One International Towers, Level 35",
+                    "streetAddress": "Barangaroo Avenue",
+                    "suburb": "Barangaroo",
+                    "state": "NSW",
+                    "postcode": "2000",
+                    "region": "Sydney - City and Inner South",
+                    "country": "Australia",
+                    "longitude": 151.2016121,
+                    "latitude": -33.8647092,
+                    "isPrincipal": false,
+                    "timestamp": "2022-01-14T09:57:59.158253+00:00"
+                }
+            ],
+            "principalAddressTimestamp": "2023-02-16T00:36:56.063451+00:00",
+            "contactInformation": {
+                "id": 76280,
+                "email": null,
+                "mobile": null,
+                "landline": "+61732314004",
+                "linkedin": null,
+                "twitter": "https://www.twitter.com/visisbrisbane",
+                "facebook": "https://www.facebook.com/VISISPRIVATEWEALTH/",
+                "website": "http://www.visis.com.au/",
+                "timestamp": "2022-03-10T10:08:21.571757+00:00"
+            },
+            "contactInformationTimestamp": "2022-03-10T10:08:21.571757+00:00",
+            "contactPersons": [
+                {
+                    "id": 43449,
+                    "isPrimary": true,
+                    "position": "Partner",
+                    "adviserNumber": 245214,
+                    "person": {
+                        "id": 2919,
+                        "preferredName": null,
+                        "firstName": "Christopher",
+                        "middleNames": "John",
+                        "lastName": "Smith",
+                        "gender": "MALE",
+                        "timestamp": "2020-03-08T14:05:04.185499+00:00"
+                    },
+                    "contactInformation": {
+                        "id": 78445,
+                        "email": "csmith@visis.com.au",
+                        "mobile": "+61416076484",
+                        "landline": "+61732314004",
+                        "linkedin": null,
+                        "twitter": "http://www.twitter.com/visissmithy",
+                        "facebook": "http://www.facebook.com/profile.php?id=100011446834986",
+                        "website": "http://www.visis.com.au/",
+                        "Timestamp": null
+                    }
+                }
+            ],
+            "primaryContactTimestamp": "2022-11-09T04:13:29.678462+00:00",
+            "investmentInformation": {
+                "fua": {
+                    "min": 500000000,
+                    "max": null
+                },
+                "fuaTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "inForcePremiums": {
+                    "min": 1000000,
+                    "max": 1500000
+                }
+            },
+            "clientInformation": {
+                "clientCount": {
+                    "min": 250,
+                    "max": null
+                },
+                "smsfProportion": {
+                    "min": null,
+                    "max": null
+                },
+                "ageBreakdown": {
+                    "under35": "0.16",
+                    "between35And45": "0.20",
+                    "between46And55": "0.21",
+                    "between56And65": "0.21"
+                },
+                "retirementBreakdown": {
+                    "preRetire": "0.49",
+                    "nearRetire": "0.16",
+                    "postRetire": "0.22",
+                    "smePreRetire": "0.14"
+                }
+            },
+            "clientInformationTimestamp": null,
+            "products": {
+                "adminPlatforms": [
+                    {
+                        "id": 8,
+                        "name": "CFS FirstWrap"
+                    },
+                    {
+                        "id": 12,
+                        "name": "Macquarie"
+                    }
+                ],
+                "insurancePlatforms": [
+                    {
+                        "id": 96,
+                        "name": "TAL"
+                    },
+                    {
+                        "id": 97,
+                        "name": "Zurich"
+                    }
+                ],
+                "platformsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "softwareSuppliers": [
+                    {
+                        "id": 117,
+                        "name": "XPLAN"
+                    }
+                ],
+                "softwareSuppliersTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "researchHouse": [
+                    {
+                        "id": 46,
+                        "name": "Lonsec"
+                    }
+                ],
+                "researchHouseTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "investmentConsultants": [],
+                "investmentConsultantsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "apl": [
+                    {
+                        "id": 64,
+                        "name": "Direct Shares"
+                    },
+                    {
+                        "id": 65,
+                        "name": "Managed Funds"
+                    },
+                    {
+                        "id": 70,
+                        "name": "ETFs"
+                    },
+                    {
+                        "id": 71,
+                        "name": "LICs"
+                    },
+                    {
+                        "id": 73,
+                        "name": "Life Insurance"
+                    },
+                    {
+                        "id": 74,
+                        "name": "Annuities"
+                    },
+                    {
+                        "id": 75,
+                        "name": "Margin Lending"
+                    },
+                    {
+                        "id": 77,
+                        "name": "Loans"
+                    },
+                    {
+                        "id": 79,
+                        "name": "SMSF"
+                    },
+                    {
+                        "id": 80,
+                        "name": "Retail"
+                    },
+                    {
+                        "id": 69,
+                        "name": "Model portfolios (using direct shares)"
+                    },
+                    {
+                        "id": 68,
+                        "name": "Model portfolios (using managed funds)"
+                    }
+                ],
+                "aplTimestamp": "2021-05-03T00:28:46.344579+00:00"
+            }
+        },
+        {
+            "id": 18012065,
+            "name": "Chandos Financial Services",
+            "tradingNames": [],
+            "businessNames": [],
+            "abn": "64053154288",
+            "acn": "053154288",
+            "licensee": {
+                "licenceNumber": 478766,
+                "licenceType": "PRIVATELY_OWNED_11_100",
+                "licenseeName": "SAMBE INVESTMENTS PTY. LIMITED"
+            },
+            "adviserInformation": {
+                "totalAdvisers": 1,
+                "femalePercent": 0,
+                "malePercent": 1,
+                "otherPercent": 0
+            },
+            "addresses": [
+                {
+                    "id": 8015,
+                    "building": "Suite 705, Level 7",
+                    "streetAddress": "275 Alfred St N",
+                    "suburb": "North Sydney",
+                    "state": "NSW",
+                    "postcode": "2060",
+                    "region": "Sydney - North Sydney and Hornsby",
+                    "country": "Australia",
+                    "longitude": 151.2115647,
+                    "latitude": -33.8398244,
+                    "isPrincipal": true,
+                    "timestamp": "2023-06-08T07:39:51.825155+00:00"
+                }
+            ],
+            "principalAddressTimestamp": "2023-06-08T07:39:51.825155+00:00",
+            "contactInformation": {
+                "id": 70256,
+                "email": null,
+                "mobile": null,
+                "landline": "+61285990835",
+                "linkedin": null,
+                "twitter": null,
+                "facebook": null,
+                "website": null,
+                "timestamp": "2022-06-08T21:20:27.109889+00:00"
+            },
+            "contactInformationTimestamp": "2022-06-08T21:20:27.109889+00:00",
+            "contactPersons": [
+                {
+                    "id": 40712,
+                    "isPrimary": true,
+                    "position": "Owner",
+                    "adviserNumber": 222877,
+                    "person": {
+                        "id": 16,
+                        "preferredName": null,
+                        "firstName": "Lachlan",
+                        "middleNames": "Alexander",
+                        "lastName": "Reynolds",
+                        "gender": "MALE",
+                        "timestamp": "2020-03-08T14:05:04.185499+00:00"
+                    },
+                    "contactInformation": {
+                        "id": 76518,
+                        "email": "lreynolds@chandosfs.com.au",
+                        "mobile": "+61411088877",
+                        "landline": null,
+                        "linkedin": null,
+                        "twitter": null,
+                        "facebook": null,
+                        "website": null,
+                        "Timestamp": null
+                    }
+                }
+            ],
+            "primaryContactTimestamp": "2020-11-05T00:38:01.778754+00:00",
+            "investmentInformation": {
+                "fua": {
+                    "min": 200000000,
+                    "max": 500000000
+                },
+                "fuaTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "inForcePremiums": null
+            },
+            "clientInformation": {
+                "clientCount": {
+                    "min": 250,
+                    "max": null
+                },
+                "smsfProportion": {
+                    "min": null,
+                    "max": null
+                },
+                "ageBreakdown": {
+                    "under35": "0.14",
+                    "between35And45": "0.18",
+                    "between46And55": "0.19",
+                    "between56And65": "0.19"
+                },
+                "retirementBreakdown": {
+                    "preRetire": "0.41",
+                    "nearRetire": "0.15",
+                    "postRetire": "0.29",
+                    "smePreRetire": "0.15"
+                }
+            },
+            "clientInformationTimestamp": null,
+            "products": {
+                "adminPlatforms": [
+                    {
+                        "id": 6,
+                        "name": "BT Wrap"
+                    },
+                    {
+                        "id": 16,
+                        "name": "Netwealth"
+                    }
+                ],
+                "insurancePlatforms": [
+                    {
+                        "id": 85,
+                        "name": "AIA Australia"
+                    },
+                    {
+                        "id": 93,
+                        "name": "MLC Life"
+                    }
+                ],
+                "platformsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "softwareSuppliers": [
+                    {
+                        "id": 117,
+                        "name": "XPLAN"
+                    }
+                ],
+                "softwareSuppliersTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "researchHouse": [
+                    {
+                        "id": 48,
+                        "name": "Morningstar"
+                    },
+                    {
+                        "id": 49,
+                        "name": "Other"
+                    }
+                ],
+                "researchHouseTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "investmentConsultants": [
+                    {
+                        "id": 104,
+                        "name": "Morningstar"
+                    }
+                ],
+                "investmentConsultantsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "apl": [
+                    {
+                        "id": 64,
+                        "name": "Direct Shares"
+                    },
+                    {
+                        "id": 65,
+                        "name": "Managed Funds"
+                    },
+                    {
+                        "id": 70,
+                        "name": "ETFs"
+                    },
+                    {
+                        "id": 71,
+                        "name": "LICs"
+                    },
+                    {
+                        "id": 72,
+                        "name": "mFunds"
+                    },
+                    {
+                        "id": 73,
+                        "name": "Life Insurance"
+                    },
+                    {
+                        "id": 74,
+                        "name": "Annuities"
+                    },
+                    {
+                        "id": 79,
+                        "name": "SMSF"
+                    },
+                    {
+                        "id": 80,
+                        "name": "Retail"
+                    },
+                    {
+                        "id": 82,
+                        "name": "Industry"
+                    },
+                    {
+                        "id": 68,
+                        "name": "Model portfolios (using managed funds)"
+                    }
+                ],
+                "aplTimestamp": "2021-05-03T00:28:46.344579+00:00"
+            }
+        },
+        {
+            "id": 18013112,
+            "name": "Ultra Insurance Services",
+            "tradingNames": [
+                "ULTRA CONSOLIDATING SERVICES",
+                "Ultra Insurance Services"
+            ],
+            "businessNames": [
+                "ULTRA INSURANCE SERVICE"
+            ],
+            "abn": "20070078689",
+            "acn": "070078689",
+            "licensee": {
+                "licenceNumber": 508000,
+                "licenceType": "PRIVATELY_OWNED_1_10",
+                "licenseeName": "RESPECT FINANCIAL SERVICES PTY LTD"
+            },
+            "adviserInformation": {
+                "totalAdvisers": 1,
+                "femalePercent": 0,
+                "malePercent": 1,
+                "otherPercent": 0
+            },
+            "addresses": [
+                {
+                    "id": 3127,
+                    "building": "Suite 6",
+                    "streetAddress": "39-41 Catalano Rd",
+                    "suburb": "Canning Vale",
+                    "state": "WA",
+                    "postcode": "6155",
+                    "region": "Perth - South East",
+                    "country": "Australia",
+                    "longitude": 115.8954073,
+                    "latitude": -32.0657534,
+                    "isPrincipal": true,
+                    "timestamp": "2019-12-20T15:08:00+00:00"
+                }
+            ],
+            "principalAddressTimestamp": "2019-12-20T15:08:00+00:00",
+            "contactInformation": {
+                "id": 75133,
+                "email": null,
+                "mobile": null,
+                "landline": "+61894561056",
+                "linkedin": null,
+                "twitter": null,
+                "facebook": "https://www.facebook.com/Just-Coffee-Insurance-412771455571263/",
+                "website": null,
+                "timestamp": "2021-09-02T11:33:25.695518+00:00"
+            },
+            "contactInformationTimestamp": "2021-09-02T11:33:25.695518+00:00",
+            "contactPersons": [
+                {
+                    "id": 32087,
+                    "isPrimary": true,
+                    "position": "Owner",
+                    "adviserNumber": 240704,
+                    "person": {
+                        "id": 2010,
+                        "preferredName": null,
+                        "firstName": "Ned",
+                        "middleNames": null,
+                        "lastName": "Schepis",
+                        "gender": "MALE",
+                        "timestamp": "2020-03-08T14:05:04.185499+00:00"
+                    },
+                    "contactInformation": {
+                        "id": 77825,
+                        "email": null,
+                        "mobile": "+61412944103",
+                        "landline": "+61894561056",
+                        "linkedin": null,
+                        "twitter": null,
+                        "facebook": null,
+                        "website": "https://www.respectfs.com.au/about/",
+                        "Timestamp": null
+                    }
+                }
+            ],
+            "primaryContactTimestamp": "2023-04-06T03:34:14.268889+00:00",
+            "investmentInformation": {
+                "fua": {
+                    "min": 100000000,
+                    "max": 200000000
+                },
+                "fuaTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "inForcePremiums": null
+            },
+            "clientInformation": {
+                "clientCount": {
+                    "min": 150,
+                    "max": 200
+                },
+                "smsfProportion": {
+                    "min": null,
+                    "max": null
+                },
+                "ageBreakdown": {
+                    "under35": "0.13",
+                    "between35And45": "0.16",
+                    "between46And55": "0.18",
+                    "between56And65": "0.18"
+                },
+                "retirementBreakdown": {
+                    "preRetire": "0.37",
+                    "nearRetire": "0.15",
+                    "postRetire": "0.33",
+                    "smePreRetire": "0.15"
+                }
+            },
+            "clientInformationTimestamp": null,
+            "products": {
+                "adminPlatforms": [
+                    {
+                        "id": 5,
+                        "name": "BT Panorama"
+                    },
+                    {
+                        "id": 7,
+                        "name": "CFS FirstChoice"
+                    }
+                ],
+                "insurancePlatforms": [
+                    {
+                        "id": 94,
+                        "name": "Neos"
+                    },
+                    {
+                        "id": 96,
+                        "name": "TAL"
+                    }
+                ],
+                "platformsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "softwareSuppliers": [
+                    {
+                        "id": 62,
+                        "name": "Salesforce"
+                    },
+                    {
+                        "id": 99,
+                        "name": "AdviserLogic"
+                    }
+                ],
+                "softwareSuppliersTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "researchHouse": [
+                    {
+                        "id": 44,
+                        "name": "Chant West"
+                    },
+                    {
+                        "id": 48,
+                        "name": "Morningstar"
+                    }
+                ],
+                "researchHouseTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "investmentConsultants": [
+                    {
+                        "id": 115,
+                        "name": "Zenith"
+                    }
+                ],
+                "investmentConsultantsTimestamp": "2021-05-03T00:28:46.344579+00:00",
+                "apl": [
+                    {
+                        "id": 64,
+                        "name": "Direct Shares"
+                    },
+                    {
+                        "id": 77,
+                        "name": "Loans"
+                    },
+                    {
+                        "id": 79,
+                        "name": "SMSF"
+                    },
+                    {
+                        "id": 80,
+                        "name": "Retail"
+                    },
+                    {
+                        "id": 82,
+                        "name": "Industry"
+                    },
+                    {
+                        "id": 67,
+                        "name": "Managed accounts (e.g. MDA / SMA / IMA)"
+                    },
+                    {
+                        "id": 69,
+                        "name": "Model portfolios (using direct shares)"
+                    },
+                    {
+                        "id": 68,
+                        "name": "Model portfolios (using managed funds)"
+                    }
+                ],
+                "aplTimestamp": "2021-05-03T00:28:46.344579+00:00"
+            }
+        },
+        {
+            "id": 19205143,
+            "name": "In-Toto Financial Planning",
+            "tradingNames": [],
+            "businessNames": [
+                "IN-TOTO FINANCIAL PLANNING"
+            ],
+            "abn": "48600965786",
+            "acn": "600965786",
+            "licensee": {
+                "licenceNumber": 508000,
+                "licenceType": "PRIVATELY_OWNED_1_10",
+                "licenseeName": "RESPECT FINANCIAL SERVICES PTY LTD"
+            },
+            "adviserInformation": {
+                "totalAdvisers": 1,
+                "femalePercent": 1,
+                "malePercent": 0,
+                "otherPercent": 0
+            },
+            "addresses": [
+                {
+                    "id": 26435,
+                    "building": null,
+                    "streetAddress": "4 Ruth Ct",
+                    "suburb": "Duncraig",
+                    "state": "WA",
+                    "postcode": "6023",
+                    "region": "Perth - North West",
+                    "country": "Australia",
+                    "longitude": 115.7637833,
+                    "latitude": -31.82108909999999,
+                    "isPrincipal": true,
+                    "timestamp": "2022-06-21T03:44:34.748519+00:00"
+                }
+            ],
+            "principalAddressTimestamp": "2022-06-21T03:44:34.748519+00:00",
+            "contactInformation": {
+                "id": 106986,
+                "email": null,
+                "mobile": null,
+                "landline": "+61863888052",
+                "linkedin": null,
+                "twitter": null,
+                "facebook": null,
+                "website": null,
+                "timestamp": "2022-06-21T03:44:34.861195+00:00"
+            },
+            "contactInformationTimestamp": "2022-06-21T03:44:34.861195+00:00",
+            "contactPersons": [
+                {
+                    "id": 43919,
+                    "isPrimary": true,
+                    "position": "Financial Planner",
+                    "adviserNumber": 411586,
+                    "person": {
+                        "id": 13648,
+                        "preferredName": null,
+                        "firstName": "Chantel",
+                        "middleNames": null,
+                        "lastName": "Oosthuizen",
+                        "gender": "FEMALE",
+                        "timestamp": "2020-03-08T14:05:04.185499+00:00"
+                    },
+                    "contactInformation": {
+                        "id": 85515,
+                        "email": null,
+                        "mobile": "+61434876012",
+                        "landline": "+61863888052",
+                        "linkedin": null,
+                        "twitter": null,
+                        "facebook": null,
+                        "website": null,
+                        "Timestamp": null
+                    }
+                }
+            ],
+            "primaryContactTimestamp": "2022-06-21T03:44:35.402163+00:00",
+            "investmentInformation": null,
+            "clientInformation": null,
+            "clientInformationTimestamp": null,
+            "products": null
+        }
+    ],
+    "updated": [
+        {
+            "id": 18000017,
+            "before": {
+                "id": 18000017,
+                "name": "100 Doors Pty. Ltd.",
+                "tradingNames": [],
+                "businessNames": [],
+                "abn": "69166153377",
+                "acn": "166153377",
+                "licensee": {
+                    "licenceNumber": 446176,
+                    "licenceType": "PRIVATELY_OWNED_11_100",
+                    "licenseeName": "ASVW FINANCIAL SERVICES PTY LTD"
+                },
+                "adviserInformation": {
+                    "totalAdvisers": 2,
+                    "femalePercent": 0,
+                    "malePercent": 0,
+                    "otherPercent": 1
+                },
+                "addresses": [
+                    {
+                        "id": 19555,
+                        "building": null,
+                        "streetAddress": "300 Barangaroo Ave",
+                        "suburb": "Barangaroo",
+                        "state": "NSW",
+                        "postcode": "2000",
+                        "region": "Sydney - City and Inner South",
+                        "country": "Australia",
+                        "longitude": 151.2021367,
+                        "latitude": -33.8651342,
+                        "isPrincipal": false,
+                        "timestamp": "2020-03-12T02:46:31.413574+00:00"
+                    }
+                ],
+                "principalAddressTimestamp": "2020-04-17T02:13:05.617011+00:00",
+                "contactInformation": null,
+                "contactInformationTimestamp": null,
+                "contactPersons": [],
+                "primaryContactTimestamp": "2022-10-24T00:56:06.907599+00:00",
+                "investmentInformation": null,
+                "clientInformation": null,
+                "clientInformationTimestamp": null,
+                "products": null
+            },
+            "after": {
+                "id": 18000017,
+                "name": "100 Doors Pty. Ltd.",
+                "tradingNames": [],
+                "businessNames": [],
+                "abn": "69166153377",
+                "acn": "166153377",
+                "licensee": {
+                    "licenceNumber": 446176,
+                    "licenceType": "PRIVATELY_OWNED_11_100",
+                    "licenseeName": "ASVW FINANCIAL SERVICES PTY LTD"
+                },
+                "adviserInformation": {
+                    "totalAdvisers": 3,
+                    "femalePercent": 0,
+                    "malePercent": 0,
+                    "otherPercent": 1
+                },
+                "addresses": [
+                    {
+                        "id": 19555,
+                        "building": null,
+                        "streetAddress": "300 Barangaroo Ave",
+                        "suburb": "Barangaroo",
+                        "state": "NSW",
+                        "postcode": "2000",
+                        "region": "Sydney - City and Inner South",
+                        "country": "Australia",
+                        "longitude": 151.2021367,
+                        "latitude": -33.8651342,
+                        "isPrincipal": false,
+                        "timestamp": "2020-03-12T02:46:31.413574+00:00"
+                    }
+                ],
+                "principalAddressTimestamp": "2020-04-17T02:13:05.617011+00:00",
+                "contactInformation": null,
+                "contactInformationTimestamp": null,
+                "contactPersons": [],
+                "primaryContactTimestamp": "2022-10-24T00:56:06.907599+00:00",
+                "investmentInformation": null,
+                "clientInformation": null,
+                "clientInformationTimestamp": null,
+                "products": null
+            },
+            "details": {
+                "newProperties": [],
+                "removedProperties": [],
+                "updateProperties": [
+                    {
+                        "path": [
+                            "adviserInformation",
+                            "totalAdvisers"
+                        ],
+                        "previousValue": 2,
+                        "currentValue": 3
+                    }
+                ]
+            }
+        }
+    ]
+}

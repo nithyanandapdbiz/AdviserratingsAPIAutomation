@@ -29,10 +29,10 @@ public class GetAdviserStepdefinition {
     @When("user makes a request to view Adviser")
     public void userMakesARequestToViewAdvisers() throws Throwable {
     	context.response = context.requestSetup().when().get(context.session.get("endpoint").toString());
-		//int bookingID = context.response.getBody().jsonPath().getInt("[0].bookingid");
-		//LOG.info("Booking ID: "+bookingID);
-		//assertNotNull("Booking ID not found!", bookingID);
-		//context.session.put("bookingID", bookingID);
+		int bookingID = context.response.getBody().jsonPath().getInt("[0].bookingid");
+		LOG.info("Booking ID: "+bookingID);
+		assertNotNull("Booking ID not found!", bookingID);
+		context.session.put("bookingID", bookingID);
     }
 
     @Then("^user should get the response code 200$")
